@@ -4,4 +4,4 @@
 
 ## Hard: 0
 ## Medium: 3
-## Easy: 10
+## Easy: 11
