@@ -1,7 +1,7 @@
 # Leetcode Answers
 
-# Current Solved Status: 21
+# Current Solved Status: 22
 
 ## Hard: 0
-## Medium: 4
+## Medium: 5
 ## Easy: 17
