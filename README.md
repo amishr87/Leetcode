@@ -3,5 +3,5 @@
 # Current Solved Status: 30
 
 ## Hard: 1
-## Medium: 5
+## Medium: 6
 ## Easy: 24
